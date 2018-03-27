@@ -1,0 +1,17 @@
+<resources>
+	<string name="app_name">Android Technical Test</string>
+
+	<string name="pupil_detail_id">Id</string>
+	<string name="pupil_detail_name">Name</string>
+	<string name="pupil_detail_country">Country</string>
+    <string name="error_msg">Sorry! Couldn\'t fetch pupils information.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="error_msg_no_internet">Not connected to internet.</string>
+    <string name="error_msg_timeout">The server took too long to respond</string>
+    <string name="error_msg_unknown">An unexpected error occurred. Please try again!!</string>
+    <string name="tap_to_reload">Tap to reload</string>
+    <string name="latitude">Latitude: %.6f</string>
+    <string name="longitude">Longitude: %.6f</string>
+    <string name="msg_pupil_del_success">Pupil is successfully deleted.</string>
+
+</resources>

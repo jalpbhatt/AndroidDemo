@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Bridge Test\AndroidTechnicalTest-master\AndroidTechnicalTest-master\AndroidTechnicalTest.iml" filepath="D:\Bridge Test\AndroidTechnicalTest-master\AndroidTechnicalTest-master\AndroidTechnicalTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidTechnicalTest-master.iml" filepath="$PROJECT_DIR$/AndroidTechnicalTest-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
